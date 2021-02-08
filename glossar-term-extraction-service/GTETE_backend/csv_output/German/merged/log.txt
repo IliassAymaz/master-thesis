@@ -1,0 +1,6 @@
+
+    Latest execution for: 
+        dataset: [{'id': '1', 'text': 'Das System muss Schlüsselbegriffe durch statistische Auswertungen zur Eintragung ins Glossar vorschlagen.'}]
+        language: DE
+        template conform: False 
+                

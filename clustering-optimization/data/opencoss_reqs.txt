@@ -1,0 +1,110 @@
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, die für ein Sicherungsprojekt vorzulegenden Nachweis-Items anzugeben.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, die Nachweisarten der für ein Sicherungsprojekt zu liefernden Nachweis-Items anzugeben.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, ein vorhandenes Nachweis-Charakterisierungsmodell für ein Sicherungsprojekt auszuwählen.
+Die OPENCOSS-Plattform muss die Merkmale der Nachweis-Items eines Sicherungsprojekts gemäß der CCL speichern.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, die Nachweisart für das gegebene Nachweis-Item eines Sicherungsprojekts anzugeben.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, Nachweisarten, die bereits in anderen Pojekten definiert wurden, in Sicherungsprojekten wiederzuverwenden.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, das Artefakt, mit dem die Nachweis-Items eines Sicherungsprojekts verbunden sind, anzugeben
+Die OPENCOSS-Plattform muss die CCL-Informationen des Artefakts, mit dem ein Nachweis-Item eines Sicherungsprojekts verbunden ist, speichern.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, die Informationen über das Artefakt, mit dem ein Nachweis-Item eines Sicherungsprojekts verbunden ist, zu ändern.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, Nachweis-Items eines Sicherungsprojekts mit einem Artefakt, das in einem anderen Projekt verwendet wurde, zu verknüpfen.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, Nachweis-Items eines Sicherungsprojekts zu löschen.
+Wenn ein Nutzer ein Nachweis-Item aus einem Sicherungsprojekt löschen möchte, muss die OPENCOSS-Plattform vom Nutzer eine Bestätigung für diese Aktion und die nachfolgenden damit verbundenen Aktionen anfordern.
+Wenn ein Nachweis-Item aus einem Sicherungsprojekt gelöscht wird, muss die OPENCOSS-Plattform alle Beweisinformationen (Arten und Merkmale), die sich auf das Nachweis-Item aus dem Projekt beziehen löschen.
+Wenn ein Nachweis-Item aus einem Sicherungsprojekt gelöscht wird und sein zugehöriges Artefakt nicht mit anderen Nachweis-Items verbunden ist, muss die OPENCOSS-Plattform das Artefakt aus dem Projekt löschen.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, die Informationen der Nachweis-Items eines Sicherungsprojekts zu ändern.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, Nachweis-Items in ein Sicherungsprojekt zu kopieren, die zuvor in einem anderen Sicherungsprojekt gespeichert wurden.
+Die OPENCOSS-Plattform muss die Zeit und das Datum der Aktionen, die an den Nachweis-Items eines Sicherungsprojekts durchgeführt wurden, speichern.
+Die OPENCOSS-Plattform muss das Nachweis-Repository eines Sicherungsprojekts aus dessen Nachweis-Charakterisierungsmodell erstellen.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, Merkmalsspezifikationen des Nachweis-Items eines Sicherungsprojekts als vollständig auszuzeichnen.
+Wenn die Merkmalsspezifikatoin für ein Nachweis-Item eines Sicherungsprojekts als vollständig angesehen wird, muss die OPENCOSS-Plattform das Nachweis-Item grün einfärben.
+Wenn die Merkmalsspezifikation für ein Nachweis-Item eines Sicherungsprojekts nicht als vollständig angesehen wird, muss die OPENCOSS-Plattform das Nachweis-Item gelb einfärben.
+Die OPENCOSS-Plattform muss die Menge der Nachweis-Items eines Sicherungsprojekts mittels einer Baumansicht anzeigen.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, für die Anzeige der Nachweis-Items eines Sicherungsprojekts Zwischenknoten in der Baumansicht zu definieren.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, für die Anzeige der Nachweis-Items eines Sicherungsprojekts Zwischenknoten in der Baumansicht zu modifizieren.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, für die Anzeige der Nachweis-Items eines Sicherungsprojekts Zwischenknoten in der Baumansicht zu löschen.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, für die Anzeige der Nachweis-Items eines Sicherungsprojekts in der Baumansicht Zwischenknoten mit Nachweis-Items zu verknüpfen.
+Wenn für ein Sicherungsprojekt ein Nachweis-Charakterisierungsmodell ausgewählt wurde, muss die OPENCOSS-Plattform Zwischenknoten für die Baumansicht zur Anzeige der Nachweis-Items eines Projekts gemäß dem Nachweis-Charakterisierungsmodell vorschlagen.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, die Nachweis-Items eines Sicherungsprojekts in die Baumstruktur, zur Anzeige der Nachweis-Items eines Projekts, aufzunehmen.
+Wenn ein Nachweis-Charakterisierungsmodell für ein Sicherungsprojekts ausgewählt wurde, die Nachweis-Items des Projekts mit Nachweisarten verknüpft sind und die Nachweisarten für die Definition von Zwischenknoten der Baumansicht, zur Anzeige der Nachweis-Items des Projekts, verwendet wurden, muss die OPENCOSS-Plattform die Nachweis-Items des Projekts automatisch in die Knoten der Baumansicht ihrer verknüpften Nachweisarten aufnehmen.
+Die OPENCOSS-Plattform muss fähig sein, Berichte über den Nachweisbeleg eines Sicherungsprojekts in Form von HTML-Dateien zu generieren.
+Die OPENCOSS-Plattform muss fähig sein, Berichte über den Nachweisbeleg eines Sicherungsprojekts anhand von Dokumenten in den Formaten PDF, RTF und MS Word zu erstellen.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, Informationen, die in den Berichten über die Nachweisbelege eines Sicherungsprojekts enthalten sein sollen, anzugeben.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, Nachweisrückverfolgbarkeitslinks zwischen den Nachweis-Items eines Sicherungsprojekts zu spezifizieren.
+Die OPENCOSS-Plattform muss die Informationen der Nachweisrückverfolgbarkeitslinks eines Sicherungsprojekts gemäß der CCL speichern.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, für ein Sicherungsprojekt Link-Typen für die Nachweisrückverfolgbarkeitslinks zu definieren.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, die in einem anderen Projekt definierten Link-Typen der Nachweisrückverfolgbarkeitslinks in einem Sicherungsprojekt wiederzuverwenden.
+Die OPENCOSS-Plattform muss die Nachweis-Items eines Sicherungsprojekts, die die Quelle eines Nachweisrückverfolgbarkeitslinks sind, für die wiederum ein bestimmtes Nachweis-Item das Ziel ist, anzeigen.
+Die OPENCOSS-Plattform muss die Nachweis-Items eines Sicherungsprojekts, die das Ziel von Nachweisrückverfolgbarkeitslinks sind, für die wiederum ein bestimmtes Nachweis-Item die Quelle ist, anzeigen.
+Wenn für ein Sicherungsprojekt ein Nachweis-Charakterisieungsmodell ausgewählt wurde und für ein Nachweis-Item des Projekts ein Nachweisrückverfolgbarkeitslink angegeben wurde, muss die OPENCOSS-Plattform die Information, ob der Nachweisrückverfolgbarkeitslink gemäß dem Modell korrekt ist, anzeigen.
+Wenn ein Nachweisrückverfolgbarkeitslink eines Sicherungsprojekts gemäß dem für das Projekt gewählten Nachweis-Charakterisierungsmodell nicht korrekt ist, muss die OPENCOSS-Plattform einen solchen Link rot einfärben.
+Wenn für ein Sicherungsprojekt ein Nachweis-Charakterisierungmodell zur Spezifikation von Nachweisrückverfolgbarkeitslinks für ein Nachweis-Item des Projekts ausgewählt wurde, muss die OPENCOSS-Plattform mögliche Nachweis-Items, mit denen gemäß dem Modell Nachweisrückverfolgbarkeitslinks spezifiziert werden könnten, anzeigen.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, Nachweisrückverfolgbarkeitslinks eines Sicherungsprojekts zu löschen.
+Wenn ein Nutzer einen Nachweisrückverfolgbarkeitslink eines Sicherungsprojekts löschen möchte, muss die OPENCOSS-Plattform eine Bestätigung der Aktion durch den Benutzer verlangen.
+Wenn ein Nachweis-Item eines Sicherungsprojekts die Quelle oder das Ziel eines Nachweisrückverfolgbarkeitslinks ist und das Nachweis-Item aus dem Projekt gelöscht wird, muss die OPENCOSS-Plattform auch den Nachweisrückverfolgbarkeitslink aus dem Projekt entfernen.
+Wenn ein Nachweis-Charakterisierungsmodell für ein Sicherungsprojekt ausgewählt wurde, muss die OPENCOSS-Plattform die erforderlichen fehlenden Links entsprechend dem Modell anzeigen.
+Die OPENCOSS-Plattform muss fähig sein Nachweisrückverfolgbarkeitslinks zwischen den Nachweis-Items eines Sicherungsprojekts mit Hilfe von Rückverfolgbarkeitsmatrizen aufzuzeigen.
+Bei der Verwendung von Matrizen zur Darstellung der Nachweisrückverfolgbarkeitslinks eines Sicherungsprojekts muss die OPENCOSS-Plattform dem Nutzer die Möglichkeit bieten, Quell- und Zielnachweisarten aus anderen Verlinkungs-Matrizen auszuwählen.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, Nachweisrückverfolgbarkeitslinks in Rückverfolgbarkeitsmatrizen zu spezifizieren.
+Die OPENCOSS-Plattform muss fähig sein, die Beweisketten, zu denen ein Nachweis-Item eines Sicherungsprojekts gehört, anhand von Modellen darzustellen.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, Tabellen zur Darstellung der Nachweis-Item-Rückverfolgbarkeit eines Sicherungsprojekts zu definieren.
+Bei der Darstellung der Nachweis-Item-Rückverfolgbarkeit mittels Tabellen muss die OPENCOSS-Plattform, die Angabe der Nachweisarten, die in die Tabelle aufgenommen werden sollen, verlangen.
+Die OPENCOSS-Plattform wird für jede Nachweisart, die vom Nutzer in eine Tabelle zur Visualisierung der Rückverfolgbarkeit aufgenommen werden soll, eine Spalte innerhalb dieser Tabelle vorhalten.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, Nachweisrückverfolgbarkeitslinks in Rückverfolgbarkeitstabellen zu spezifizieren.
+Bei der Verwendung von Tabellen zur Sicherung der Rückverfolgbarkeit von Nachweisen in einem Sicherungsprojekt muss die OPENCOSS-Plattform dem Nutzer die Möglichkeit bieten,  Nachweisarten aus einer anderen Tabelle auszuwählen.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, Nachweis-Items eines Sicherungsprojekts nach den Bewertungskriterien aus der CCL zu bewerten.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, die Begründung für die Bewertung eines Nachweis-Items eines Sicherungsprojekts zu spezifizieren.
+Wenn ein Nachweis-Item eines Sicherungsprojekts mit anderen Nachweis-Items des Projekts über einen Nachweisrückverfolgbarkeitslink verbunden ist, muss die OPENCOSS-Plattform den Nutzer über die mögliche Abhängigkeit der Bewertung des Nachweis-Items von der Bewertung der anderen Nachweis-Items informieren.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, Kriterien für die Bewertung der Nachweis-Items eines Sicherungsprojekts zu definieren.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, Kriterien für die Bewertung der Nachweis-Items eines Sicherungsprojekts zu ändern.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, Nachweis-Items eines Projekts nach den Bewertungskriterien von Nachweis-Items aus anderen Sicherungsprojekten zu bewerten.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, Bewertungskategorien für die Bewertungskriterien der Nachweis-Items eines Sicherungsprojekts zu definieren.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, die für die Bewertungskriterien der Nachweis-Items eines Sicherungsprojekts definierten Bewertungskategorien zu ändern.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, Nachweis-Items eines Sicherungsprojekts mit Bewertungskategorien für die in anderen Projekten definierten Bewertungskriterien zu bewerten.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, die Bewertung der Nachweis-Items eines Sicherungsprojekts bei Verfolgung der Änderungshistorie zu ändern.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, Aktionen, die für den Nachweisbeleg eines Sicherungsprojekts benötigt werden, als Ergebnis der Nachweisbewertung zu spezifizieren.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, die als Ergebnis der Nachweisbewertung erhaltenen Informationen über auszuführende Aktionen in einem Sicherungsprojekt per E-Mail zu verschicken.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, die als Ergebnis der Nachweisbewertung erhaltenen Nachweis-Items, die verknüpft sind mit Aktionen, welche im Nachweisbeleg eines Sicherungsprojekts benötigt werden, anzugeben.
+Wenn ein Nachweis-Item eines Sicherungsprojekts mit Aktionen verknüpft wurde, die als Ergebnis der Nachweisbewertung durchzuführen sind, muss die OPENCOSS-Plattform ein solches Nachweis-Item rot einfärben.
+Die OPENCOSS-Plattform muss den Status einer Aktion, die in einem Sicherungsprojekt als Ergebnis der Nachweisbewertung erforderlich ist, falls dieser "noch ausstehend" oder "adressiert" ist, aufzeichnen.
+Die OPENCOSS-Plattform muss Aktionen, die in einem Sicherungsprojekt als Ergebnis der Nachweisbewertung erforderlich sind, aufzeigen.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, die Information, ob eine im Sicherungsprojekt als Ergebnis der Nachweisbewertung erforderliche Aktion adressiert wurde, anzugeben.
+Wenn der Status einer Aktion, die in einem Sicherungsprojekt als Ergebnis der Nachweisbewertung erforderlich ist, "noch ausstehend" ist, muss die OPENCOSS-Plattform eine solche Aktion rot einfärben.
+Wenn alle in einem Sicherungsprojekts zu erbringenden Nachweis-Items gemäß dem Nachweis-Charakterisierungsmodell des Projekts erbracht wurden, muss die OPENCOSS-Plattform die Information, dass der Nachweisbeleg des Sicherungsprojekts als vollständig betrachtet werden kann, anzeigen.
+Wenn der Nachweisbeleg eines Sicherungsprojekts als vollständig betrachtet wird, alle Nachweisrückverfolgbarkeitslinks des Projekts korrekt sind, es keine noch ausstehenden Aktionen im Projekt gibt und die aus externen Werkzeugen im Projekt importierten Informationen synchronisiert sind, muss die OPENCOSS-Plattform die Information, dass der Nachweisbeleg eines Sicherungsprojekts als angemessen betrachtet werden kann, anzeigen.
+Wenn ein Nachweis-Item in einem Sicherungsprojekt geändert wird, muss die OPENCOSS-Plattform die von der Änderung betroffenen Nachweis-Items des Sicherungsprojekts anzeigen.
+Bei Änderung eines Nachweis-Items in einem Sicherungsprojekt, muss die OPENCOSS-Plattform, die Nachweisrückverfolgbarkeitslinks des von der Änderung betroffenen Sicherungsprojekts anzeigen.
+Wenn bei Änderung eines Nachweis-Items eines Sicherungsprojekts andere Nachweis-Items betroffen sind, muss die OPENCOSS-Plattform vom Nutzer eine Änderungsbestätigung verlangen.
+Wenn ein Nutzer eine mögliche Änderung in einem Nachweis-Item eines Sicherungsprojekts angegeben hat, muss die OPENCOSS-Plattform die Nachweis-Items des Sicherungsprojekts, die von der Änderung betroffen wären, anzeigen.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, Aktionen, die im Nachweisbeleg eines Sicherungsprojekts infolge einer Änderung eines Nachweis-Items erforderlich sind, zu spezifizieren.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, infolge von Änderungen an Nachweis-Items, diejenigen Nachweis-Items, die mit Aktionen verknüpft sind, welche im Nachweisbeleg eines Sicherungsprojekts benötigt werden, anzugeben.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, infolge der Änderung eines Nachweis-Items, diejenigen Nachweisrückverfolgbarkeitslinks, die mit Aktionen verknüpft sind, welche im Nachweisbeleg eines Sicherungsprojekts benötigt werden, anzugeben.
+Die OPENCOSS-Plattform muss Aktionen, die nach der Genehmigung der Änderung eines Nachweis-Items eines Sicherungsprojekts durchzuführen sind, vorschlagen.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, Informationen über Aktionen, die in einem Sicherungsprojekt aufgrund von Änderungen an Nachweis-Items entstehen und durchzuführen sind, per E-Mail zu verschicken.
+Die OPENCOSS-Plattform muss nach Änderung eines Nachweis-Items, den Status der im Sicherungsprojekt benötigten Aktionen, falls diese "noch ausstehend" oder "adressiert" sind, aufzeichnen.
+Die OPENCOSS-Plattform muss im Sicherungsprojekt erforderliche Aktionen infolge von Änderungen an Nachweis-Items aufzeigen.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, die Information, ob eine im Sicherungsprojekt aufgrund der Änderung eines Nachweis-Items erforderliche Aktion adressiert wurde, anzugeben.
+Wenn der Status einer Aktion, die in einem Sicherungsprojekt aufgrund von Änderungen von Nachweis-Items erforderlich ist, "noch ausstehend" ist, muss die OPENCOSS-Plattform eine solche Aktion rot einfärben.
+Wenn ein Nachweis-Item eines Sicherungsprojekts durch Änderungen anderer Nachweis-Items beeinträchtigt wurde, muss die OPENCOSS-Plattform ein solches Nachweis-Item rot einfärben.
+Wenn ein Nachweisrückverfolgbarkeitslink eines Sicherungsprojekts durch Änderungen von Nachweis-Items beeinträchtigt wurde, muss die OPENCOSS-Plattform einen solchen Link rot einfärben.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, Nachweis-Items für ein Sicherungsprojekt aus den Artefakten externer Werkzeuge zu importieren.
+Die OPENCOSS-Plattform muss fähig sein, ein Artefakt in einem externen Werkzeug automatisch mit einem Nachweis-Item eines Sicherungsprojekts, das aus dem externen Werkzeug importiert wurde, zu verknüpfen.
+Die OPENCOSS-Plattform muss fähig sein, das Werkzeug, welches das Artefakt speichert, das mit einem aus einem externen Werkzeug importierten Nachweis-Item eines Sicherungsprojekts verbunden ist, automatisch anzuzeigen.
+Die OPENCOSS-Plattform muss dem Nutzer die Möglichkeit bieten, Nachweisrückverfolgbarkeitslinks für ein Sicherungsprojekt aus einem externen Werkzeug zu importieren.
+Die OPENCOSS-Plattform muss fähig sein, ein Artefakt automatisch mit einem Nachweisrückverfolgbarkeitslink eines Sicherungsprojekts, das aus einem externen Werkzeug importiert wurde, zu verknüpfen.
+Die OPENCOSS-Plattform muss fähig sein, das Werkzeug, welches das Artefakt speichert, das über einen externen Nachweisrückverfolgbarkeitslink eines Sicherungsprojekts verknüpft ist, automatisch anzeigen.
+Die OPENCOSS-Plattform muss fähig sein, Nachweisrückverfolgbarkeitslinks eines Sicherungsprojekts in externe Werkzeuge zu exportieren.
+Das OPENCOSS muss fähig sein, Nachweise für ein Sicherungsprojekt aus SAEM-Modellen zu importieren.
+Die OPENCOSS-Plattform muss fähig sein, den Nachweis eines Sicherungsprojekts in Form eines SAEM-Modells zu exportieren.
+Wenn ein Nachweis-Item eines Sicherungsprojekts, Informationen enthält, die aus einem Artefakt eines externen Werkzeug importiert wurden, und die Informationen im externen Werkzeug geändert werden, muss die OPENCOSS-Plattform eine solche Änderung erkennen und das Nachweis-Item entsprechend aktualisieren.
+Wenn ein Nachweis-Item eines Sicherungsprojekts, Informationen enthält, die aus einem externen Werkzeug importiert wurden, und die Informationen in der OPENCOSS-Plattform geändert werden, muss die OPENCOSS-Plattform eine solche Änderung erkennen und die Informationen im externen Werkzeug entsprechend aktualisieren.
+Wenn ein Nachweis-Item eines Sicherungsprojekts, Informationen enthält, die aus einem externen Werkzeug importiert wurden, und die Informationen in der OPENCOSS-Plattform geändert werden, muss die OPENCOSS-Plattform eine solche Änderung anzeigen.
+Wenn ein Nachweis-Item eines Sicherungsprojekts, Informationen enthält, die aus einem externen Werkzeug importiert wurden, und die Informationen im externen Werkzeug geändert werden, muss die OPENCOSS-Plattform eine solche Änderung anzeigen.
+Wenn ein Nachweis-Item eines Sicherungsprojekts, Informationen enthält, die aus einem externen Werkzeug importiert wurden, und die Informationen in der OPENCOSS-Plattform geändert werden, muss die OPENCOSS-Plattform eine solche Änderung durch eine rote Einfärbung des Nachweis-Item anzeigen.
+Wenn ein Nachweis-Item eines Sicherungsprojekts, Informationen enthält, die aus einem externen Werkzeug importiert wurden, und die Informationen im externen Werkzeug geändert werden, muss die OPENCOSS-Plattform eine solche Änderung durch eine rote Einfärbung des Nachweis-Item anzeigen.
+Wenn ein Nachweisrückverfolgbarkeitslink eines Sicherungsprojekts, Informationen enthält, die aus einem externen Werkzeug importiert wurden, und die Informationen im externen Werkzeug geändert werden, muss die OPENCOSS-Plattform eine solche Änderung erkennen und den Nachweisrückverfolgbarkeitslink entsprechend aktualisieren.
+Wenn ein Nachweisrückverfolgbarkeitslink eines Sicherungsprojekts, Informationen enthält, die aus einem externen Werkzeug importiert wurden, und die Informationen in der OPENCOSS-Plattform geändert werden, muss die OPENCOSS-Plattform eine solche Änderung erkennen und die Informationen im externen Werkzeug entsprechend aktualisieren.
+Wenn ein Nachweisrückverfolgbarkeitslink eines Sicherungsprojekts, Informationen enthält, die aus einem externen Werkzeug importiert wurden, und die Informationen in der OPENCOSS-Plattform geändert werden, muss die OPENCOSS-Plattform eine solche Änderung anzeigen.
+Wenn ein Nachweisrückverfolgbarkeitslink eines Sicherungsprojekts, Informationen enthält, die aus einem externen Werkzeug importiert wurden, und die Informationen im externen Werkzeug geändert werden, muss die OPENCOSS-Plattform eine solche Änderung anzeigen.
+Wenn ein Nachweisrückverfolgbarkeitslink eines Sicherungsprojekts, Informationen enthält, die aus einem externen Werkzeug importiert wurden, und die Informationen in der OPENCOSS-Plattform geändert werden, muss die OPENCOSS-Plattform eine solche Änderung durch eine rote Einfärbung des Nachweisrückverfolgbarkeitslinks anzeigen.
+Wenn ein Nachweisrückverfolgbarkeitslink eines Sicherungsprojekts, Informationen enthält, die aus einem externen Werkzeug importiert wurden, und die Informationen im externen Werkzeug geändert werden, muss die OPENCOSS-Plattform eine solche Änderung durch eine rote Einfärbung des Nachweisrückverfolgbarkeitslinks anzeigen.

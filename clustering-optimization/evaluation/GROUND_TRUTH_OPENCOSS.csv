@@ -1,0 +1,24 @@
+Nachweis,Item,Änderung,Ansicht,Artefakt,Modell,Berichte,Projekt,Informationen,Baum,Knoten,Aktion,Rückverfolgbarkeit,Status,OPENCOSS,Link,CCL,Beweis,Bewertung,Merkmal,SAEM,das ist der Rest
+Änderungen an Nachweis-Items,Änderungen an Nachweis-Items,Änderungen an Nachweis-Items,Baumansicht,Artefakt,Nachweis-Charakterisierungsmodell,Berichte,gegebene Nachweis-Item eines Sicherungsprojekts,Informationen der Nachweis-Items,Baumansicht ihrer verknüpften Nachweisarten,Definition von Zwischenknoten,Aktion,Link-Typen des Nachweisrückverfolgbarkeitslinks,noch ausstehened Status,OPENCOSS,Informationen eines Nachweisrückverfolgbarkeitslinks,CCL,Beweisinformationen,Bewertung eines Nachweis-Items,Merkmalsspezifikation,SAEM-Modellen,externe Werkzeuge
+Änderung eines Nachweis-Items,Änderung eines Nachweis-Items,Änderung eines Nachweis-Items,Knoten der Baumansicht,Artefakten externer Werkzeuge,SAEM-Modells,Berichte über den Nachweisbeleg,Nachweis eines Sicherungsprojekts,Informationen eines Nachweisrückverfolgbarkeitslinks,Knoten der Baumansicht,Knoten der Baumansicht,Bestätigung der Aktion,Nachweisrückverfolgbarkeitslink,Status einer Aktion,OPENCOSS-Plattform,Link-Typen des Nachweisrückverfolgbarkeitslinks,CCL-Informationen des Artefakts,Beweisketten,Bewertungskategorien,Merkmale der Nachweis-Items,SAEM-Modells,Formaten PDF
+Änderungen von Nachweis-Items,Änderungen von Nachweis-Items,Änderungen von Nachweis-Items,Zwischenknoten der Baumansicht,CCL-Informationen des Artefakts,vorhandenes Nachweis-Charakterisierungsmodell,,Nachweis-Items eines Projekts,Informationen über Aktionen,Zwischenknoten der Baumansicht,Zwischenknoten,Informationen über Aktionen,Nachweisrückverfolgbarkeitslink eines Sicherungsprojekts,,,Nachweisrückverfolgbarkeitslink,,,Bewertungskriterien,,,HTML-Dateiein
+Bewertung eines Nachweis-Items,Bewertung eines Nachweis-Items,Änderungsbestätigung,Zwischenknoten der Baumansicht,Informationen über das Artefakt,,,Nachweis-Item eines Sicherungsprojekts,Informationen über das Artefakt,Zwischenknoten der Baumansicht,,nachfolgenden damit verbundenen Aktionen,Nachweisrückverfolgbarkeitslinks eines Sicherungsprojekt,,,Nachweisrückverfolgbarkeitslink eines Sicherungsprojekts,,,Bewertungskriterien der Nachweis-Items,,,Nutzer
+Bewertungskriterien der Nachweis-Items,Bewertungskriterien der Nachweis-Items,Änderungshistorie,Baumansicht ihrer verknüpften Nachweisarten,,,,Nachweis-Repository eines Sicherungsprojekts,Beweisinformationen,,,noch ausstehenden Aktionen,Quelle eines Nachweisrückverfolgbarkeitslinks,,,Nachweisrückverfolgbarkeitslinks eines Sicherungsprojekt,,,Ergebnis der Nachweisbewertung,,,RTF und MS Word
+Menge der Nachweis-Items,Nachweis-Item,mögliche Änderung,,,,,Nachweisrückverfolgbarkeitslink eines Sicherungsprojekts,CCL-Informationen des Artefakts,,,Status einer Aktion,Rückverfolgbarkeitsmatrizen,,,Quell- und Zielnachweisarten aus anderen Verlinkungs-Matrizen,,,Nachweisbewertung,,,
+Merkmale der Nachweis-Items,Nachweis-Items eines Projekts,infolge einer Änderung,,,,,Nachweisrückverfolgbarkeitslinks eines Sicherungsprojekt,,,,Zeit und das Datum der Aktionen,Rückverfolgbarkeitstabellen,,,Quelle eines Nachweisrückverfolgbarkeitslinks,,,,,,
+Nachweis eines Sicherungsprojekts,Nachweis-Item eines Sicherungsprojekts,,,,,,Sicherungsprojekt,,,,,Ziel eines Nachweisrückverfolgbarkeitslinks,,,Ziel eines Nachweisrückverfolgbarkeitslinks,,,,,,
+Nachweisart,,,,,,,,,,,,,,,,,,,,,
+Nachweisart für das gegebene Nachweis-Item,,,,,,,,,,,,,,,,,,,,,
+Nachweisbeleg,,,,,,,,,,,,,,,,,,,,,
+Nachweisbewertung,,,,,,,,,,,,,,,,,,,,,
+Nachweis-Charakterisierungsmodell,,,,,,,,,,,,,,,,,,,,,
+Nachweis-Item,,,,,,,,,,,,,,,,,,,,,
+Nachweis-Items eines Projekts,,,,,,,,,,,,,,,,,,,,,
+Nachweis-Item eines Sicherungsprojekts,,,,,,,,,,,,,,,,,,,,,
+Nachweis-Repository,,,,,,,,,,,,,,,,,,,,,
+Nachweis-Item eines Sicherungsprojekts,,,,,,,,,,,,,,,,,,,,,
+Nachweis-Repository eines Sicherungsprojekts,,,,,,,,,,,,,,,,,,,,,
+Nachweisrückverfolgbarkeitslink,,,,,,,,,,,,,,,,,,,,,
+Nachweisrückverfolgbarkeitslink eines Sicherungsprojekts,,,,,,,,,,,,,,,,,,,,,
+Nachweisrückverfolgbarkeitslinks eines Sicherungsprojekt,,,,,,,,,,,,,,,,,,,,,
+Ziel eines Nachweisrückverfolgbarkeitslinks,,,,,,,,,,,,,,,,,,,,,

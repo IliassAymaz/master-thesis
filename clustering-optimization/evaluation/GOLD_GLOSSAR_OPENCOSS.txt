@@ -1,0 +1,72 @@
+Aktion
+Änderungen an Nachweis-Items
+Änderung eines Nachweis-Items
+Änderungen von Nachweis-Items
+Änderungsbestätigung
+Änderungshistorie
+Artefakt
+Artefakten externer Werkzeuge
+Baumansicht ihrer verknüpften Nachweisarten
+Baumansicht
+Begründung
+Berichte
+Berichte über den Nachweisbeleg
+Bestätigung der Aktion
+Beweisinformationen
+Beweisketten
+Bewertung eines Nachweis-Items
+Bewertungskategorien
+Bewertungskriterien
+Bewertungskriterien der Nachweis-Items
+CCL
+CCL-Informationen des Artefakts
+Definition von Zwischenknoten
+Ergebnis der Nachweisbewertung
+externe Werkzeuge
+Formaten PDF, RTF und MS Word
+gegebene Nachweis-Item eines Sicherungsprojekts
+HTML-Dateien
+infolge einer Änderung
+Informationen der Nachweis-Items
+Informationen über Aktionen
+Informationen über das Artefakt
+Knoten der Baumansicht
+Link-Typen der Nachweisrückverfolgbarkeitslinks
+Menge der Nachweis-Items
+Merkmale der Nachweis-Items
+Merkmalsspezifikation
+mögliche Änderung
+mögliche Nachweis-Items
+nachfolgenden damit verbundenen Aktionen
+Nachweis eines Sicherungsprojekts
+Nachweisart
+Nachweisart für das gegebene Nachweis-Item
+Nachweisbeleg
+Nachweisbewertung
+Nachweis-Charakterisierungmodell
+Nachweis-Item
+Nachweis-Items eines Projekts
+Nachweis-Item eines Sicherungsprojekts
+Nachweis-Repository
+Nachweis-Repository eines Sicherungsprojekts
+Nachweisrückverfolgbarkeitslink
+Nachweisrückverfolgbarkeitslink eines Sicherungsprojekts
+Nachweisrückverfolgbarkeitslinks eines Sicherungsprojekt
+noch ausstehenden Aktionen
+Nutzer
+OPENCOSS
+OPENCOSS-Plattform
+Quell- und Zielnachweisarten aus anderen Verlinkungs-Matrizen
+Quelle eines Nachweisrückverfolgbarkeitslinks
+Rückverfolgbarkeitsmatrizen
+Rückverfolgbarkeitstabellen
+SAEM-Modellen
+SAEM-Modells
+Sicherungsprojekt
+Status einer Aktion
+Zwischenknoten der Baumansicht
+vorhandenes Nachweis-Charakterisierungsmodell
+Zeit und das Datum der Aktionen
+Ziel eines Nachweisrückverfolgbarkeitslinks
+Zwischenknoten
+Zwischenknoten der Baumansicht

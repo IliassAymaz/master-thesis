@@ -1,0 +1,6 @@
+Wenn eine GSI-Komponentenbeschränkung verletzt wird, muss STS eine Warnmeldung an den Systembetreiber liefern.
+STS muss die Verfügbarkeit von GSI-Komponenten im DB-Server protokollieren.
+STS muss die GSI-Überwachungsinformationen (GSI-Anomalien, GSI-Eingangsparameter und GSI-Ausgangsparameter) an den Systembetreiber liefern.
+STS-Unterauftragnehmer müssen den Fortschritt der Entwicklungsaktivitäten im Fortschrittsbericht verfolgen.
+Wenn der Status einer GSI-Komponente geändert wird, muss STS den Fortschrittsbericht mit dem Status aktualisieren.
+STS muss den Status der GSI-Komponente im DB-Server protokollieren.

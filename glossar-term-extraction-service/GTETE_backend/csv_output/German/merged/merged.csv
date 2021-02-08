@@ -1,0 +1,9 @@
+,term,definition from DBAbkBw,definition from DBTermBw,word_class,alphabetical_order,absolute_term_frequency_in_requirements_set,relative_term_frequency_in_requirements_set,relative_term_frequency_in_Allgemeinkorpus,relative_term_frequency_in_GroßerAfoTopf,log-likelihood-based-on-Afokorpus,log-likelihood-based-on-wordfreq,ratio_of_relative_term_frequencies_to_GroßerAfoTopf,TF-IDF,requirements_id_where_term_appears,Cluster_Ergebnis
+0,vorschlagen,,,VERB,9,1.0,0.08333333333333333,6.76e-06,0.0,17.696278815623856,-41.246087105557166,0.0,1.0,[1],N/A
+1,Glossar,,,Noun Chunk,3,1.0,0.08333333333333333,1.15e-06,0.0,17.696278815623856,-41.24612012454032,0.0,0.471,[1],C1
+2,Eintragung,,,Noun Chunk,1,1.0,0.08333333333333333,3.24e-06,0.0,17.696278815623856,-41.24611003165518,0.0,0.707,[1],C1
+3,Schlüsselbegriffe,,,Noun Chunk,4,1.0,0.08333333333333333,1.26e-07,0.0,17.696278815623856,-41.24612233875096,0.0,0.236,[1],D0
+4,Eintragung ins Glossar,,,Noun Chunk,2,1.0,0.08333333333333333,8.46e-07,0.0,17.696278815623856,-41.246121135859674,0.0,0.236,[1],C1
+5,statistische Auswertungen,,,Noun Chunk,6,1.0,0.08333333333333333,1.14e-06,0.0,17.696278815623856,-41.246120160632856,0.0,0.236,[1],C1
+6,Auswertungen zur Eintragung,,,Noun Chunk,0,1.0,0.08333333333333333,9.52e-07,0.0,17.696278815623856,-41.246120804670305,0.0,0.236,[1],C1
+7,System,,,Noun Chunk,5,1.0,0.08333333333333333,0.000148,0.0,17.696278815623856,-41.24444833878772,0.0,0.236,[1],D0

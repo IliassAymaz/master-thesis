@@ -1,0 +1,137 @@
+---
+swagger: "2.0"
+info:
+  description: "Microservice for the extraction of glossar terms in software requirements."
+  version: "0.1"
+  title: "Glossar Term Extraction"
+  termsOfService: "https://www.fkie.fraunhofer.de/"
+  contact:
+    email: "hussein.hasso@fkie.fraunhofer.de"
+schemes:
+- "https"
+- "http"
+paths:
+  /version:
+    get:
+      description: "Returns the backend version number."
+      operationId: "version_get"
+      produces:
+      - "text/plain; charset=utf-8"
+      parameters: []
+      responses:
+        "200":
+          description: "The backend version number."
+          schema:
+            type: "string"
+      x-swagger-router-controller: "controllers.default_controller"
+  /ping:
+    get:
+      description: "Tests whether the server is in a responding state or not. No underlying\
+        \ logic involved."
+      operationId: "ping_get"
+      produces:
+      - "text/plain; charset=utf-8"
+      parameters: []
+      responses:
+        "200":
+          description: "The fixed string \"pong\"."
+          schema:
+            type: "string"
+            enum:
+            - "pong"
+      x-swagger-router-controller: "controllers.default_controller"
+  /create_statistics:
+    post:
+      summary: "Return statistic table with absolute and relative term frequencies\
+        \ for all verbs"
+      description: "The API takes a list of requirements in JSON format and returns\
+        \ a table with absolute and relative term frequencies, statistical ratios\
+        \ and a list of requirements IDs where the verb appears. "
+      operationId: "get_statistics"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - in: "body"
+        name: "requirements_list"
+        description: "List of Software requirements that shall be analyzed"
+        required: true
+        schema:
+          type: "array"
+          items:
+            $ref: "#/definitions/SoftwareRequirement"
+      responses:
+        "200":
+          description: "Succesful operation. Returns a JSON list with a statistics\
+            \ table"
+          schema:
+            type: "array"
+            items:
+              $ref: "#/definitions/StatisticsTable"
+        "406":
+          description: "Invalid input"
+      x-swagger-router-controller: "controllers.default_controller"
+definitions:
+  SoftwareRequirement:
+    type: "object"
+    required:
+    - "id"
+    - "text"
+    properties:
+      id:
+        type: "integer"
+      text:
+        type: "string"
+        example: "Das System muss Schlüsselbegriffe durch statistische Auswertungen\
+          \ zur Eintragung ins Glossar vorschlagen."
+    example:
+      id: 1
+      text: "Das System muss Schlüsselbegriffe durch statistische Auswertungen zur\
+        \ Eintragung ins Glossar vorschlagen."
+  StatisticsTable:
+    type: "object"
+    properties:
+      term:
+        type: "string"
+        example: "CPM"
+      word_class:
+        type: "string"
+        example: "technical term"
+      spell_in_full_according_to_DBAbkBw:
+        type: "string"
+        example: "Customer Product Management"
+      description_of_term_according_to_DBTermBw:
+        type: "string"
+        example: "Verfahrensvorschrift zur Bedarfsermittlung und Bedarfsdeckung"
+      absolute_term_frequency_in_requirements_set:
+        type: "integer"
+        example: 21
+      relative_term_frequency_in_requirements_set:
+        type: "string"
+        example: "0.0072"
+      relative_term_frequency_in_Allgemeinkorpus:
+        type: "string"
+        example: "0.0003"
+      relative_term_frequency_in_GroßerAfoTopf:
+        type: "string"
+        example: "0.00784"
+      ratio_of_relative_term_frequencies_to_Allgemeinkorpus:
+        type: "string"
+        example: "25.45"
+      ratio_of_relative_term_frequencies_to_GroßerAfoTopf:
+        type: "string"
+        example: "13.16"
+      requirements_id_where_term_appears:
+        type: "string"
+        example: "12; 43; 230; 701"
+    example:
+      term: "erstellen"
+      word_class: "verb"
+      absolute_term_frequency_in_requirements_set: 47
+      relative_term_frequency_in_requirements_set: 0.004599999999999999922284388276239042170345783233642578125
+      relative_term_frequency_in_Allgemeinkorpus: 0.00014999999999999998685946966947568625982967205345630645751953125
+      relative_term_frequency_in_GroßerAfoTopf: 0.00189999999999999999618360835285102439229376614093780517578125
+      ratio_of_relative_term_frequencies_to_Allgemeinkorpus: 30.6700000000000017053025658242404460906982421875
+      ratio_of_relative_term_frequencies_to_GroßerAfoTopf: 2.4199999999999999289457264239899814128875732421875
+      requirements_id_where_term_appears: "12; 43; 230; 701"
