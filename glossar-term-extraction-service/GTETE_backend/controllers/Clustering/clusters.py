@@ -27,7 +27,7 @@ spellchecker = hunspell.HunSpell('/usr/share/hunspell/de_DE.dic',
 class CreateClusters:
 
     def __init__(self, glossary_terms, maps, lang, documents):
-        self.afos_embeddings = AfosEmbedding('GTETE_backend/models/BERT_models/bert-base-german-cased/')
+        self.afos_embeddings = AfosEmbedding('bert-base-german-cased')
         self.maps = maps
         self.documents = documents
         self.glossary_terms = glossary_terms
