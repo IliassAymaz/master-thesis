@@ -6,7 +6,7 @@ info:
   title: "Glossar Term Extraction"
   termsOfService: "https://www.fkie.fraunhofer.de/"
   contact:
-    email: "hussein.hasso@fkie.fraunhofer.de"
+    email: "iliass.aymaz@fkie.fraunhofer.de"
 schemes:
 - "https"
 - "http"
