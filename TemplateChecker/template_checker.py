@@ -3,6 +3,7 @@ import spacy
 import pandas
 import time
 import pprint
+import io
 
 pp = pprint.PrettyPrinter()
 
@@ -192,7 +193,7 @@ class TemplateValidator:
 
 
 def read_afos(file_):
-    f = open(file_, 'r').read().splitlines()
+    f = io.open(file_, mode="r", encoding="utf-8").read().splitlines()
     return f
 
 
@@ -201,12 +202,8 @@ def replace_parentheses(target):
 
 
 tv = TemplateValidator()
-# tv.sentences = read_afos("Afos_test.txt")
-# tv.sentences = read_afos("test.txt")
-# tv.sentences = read_afos("test_so_far.txt")
-tv.sentences = read_afos("OPENCOSS_input.txt")
+tv.sentences = read_afos("OPENCOSS_data.csv")
 
 pandas.DataFrame(tv.tag_sentences(), columns=[
     'SENTENCE', 'CONDITION', 'MODAL VERB', 'SYSTEM_NAME', 'ACTOR', 'OBJECT + COMPLEMENT', 'VERB'
 ]).to_csv('output.csv', sep='\t')
-

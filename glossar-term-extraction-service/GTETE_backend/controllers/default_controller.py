@@ -557,9 +557,13 @@ def get_statistics(requirements_list):  # noqa: E501
             return df, sentences
 
     def df_to_dicts(df):
-        return [
+        x = [
             {a: b for a, b in zip(df.columns, df.values.tolist()[i])} for i in range(len(df))
         ]
+        import datetime
+
+        print('time: '+ f'{str(datetime.timedelta(seconds=time.time() - start))}')
+        return x
 
     class ChunksPipeline(Pipeline):
         def __init__(self,
@@ -856,7 +860,9 @@ def get_statistics(requirements_list):  # noqa: E501
     merged = Merged(requirements_list, template=False)  # False for test dataset
 
     if connexion.request.is_json:
+        import time
         # requirements_list = [SoftwareRequirement.from_dict(d) for d in connexion.request.get_json()]  # noqa: E501
+        start = time.time()
         return merged.merged_outputs()
 
 
