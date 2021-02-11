@@ -1,3 +1,3 @@
 *venv/
-*models
+glossar-term-extraction-service/GTETE_backend/models/BERT_models
 .idea/

@@ -1,0 +1,546 @@
+all
+alternative
+alternatively
+apparent
+apparently
+also
+almost
+after
+afterwards
+as well
+any
+actual
+actually
+about
+anyone
+at least
+again
+apparent
+apparently
+already
+as possible
+and
+approximate
+approximately
+again
+at first
+almost
+absolute
+absolutely
+at all
+amazing
+amazingly
+anything
+anywhere
+among other things
+at times
+ambiguous
+are
+adequate
+adequately
+a
+an
+appropriate
+appropriately
+able to
+accommodate
+and
+also
+in addition
+at least
+am
+are
+ad hoc
+adequate
+as follows
+and
+as desired
+at last
+anyone
+anybody
+anything
+anywhere
+any
+adaptability
+additionally aggregate
+arbitrary
+as appropriate
+available
+at last
+as few as possible
+as little as possible
+as many as possible
+as much as possible
+as required
+as well as
+big
+bright
+brightly
+back
+backside
+bad
+badly
+beautiful
+beautifully
+before
+bad
+besides
+but
+by far
+better
+best
+back then
+be
+below
+both
+current
+currently
+ca
+circa
+could
+clear
+clearly
+cheap
+can
+complete
+completely
+could
+couple
+conversely
+cf
+compare
+comparatively
+capable
+clean
+cold
+conventional
+countless
+conceivable
+colossal
+certainly
+colourful
+colourful
+certain
+certainly
+correct
+correctly
+cost-efficient
+cost-effective
+can
+capability
+common
+correctly
+consistent
+contemporary
+convenient
+credible
+custom
+customary
+could
+difficult
+difficulty
+different
+differently
+determined
+default
+definable
+especially
+efficient
+efficiently
+either ... or
+etc.
+extreme
+extremely
+enough
+equal
+equally
+everywhere
+etc.
+e.g.
+eg
+even
+evenly
+extraordinary
+enormous
+enormously
+exact
+every now and then
+estimate
+easy
+easyly
+eventually
+everybody
+everything
+effective
+episodic
+equitable
+equitably
+expeditiously
+final
+finally
+flat
+frequent
+frequently
+front
+fast
+far
+further
+farther
+for instance
+for example
+first
+firstly
+feeble
+for the time being
+from time to time
+former
+few
+fabulous
+fabulously
+fantastic
+for the time being
+flexible
+feasible
+functional
+following
+fair
+fairly
+full
+good
+get
+general
+generic
+he
+hot
+hotly
+high
+highly
+hopefully
+hope
+heavy
+heavyly
+hard
+hardly
+hurry
+halfway
+halt
+highest
+huge,he
+high-level
+i.e.
+it
+if
+improve
+in front of
+immense
+innumerable
+immediate
+immediately
+isolated
+individually
+individual
+is
+including
+in addition
+in particular
+in addition
+if appropriate
+if desired
+in case of
+if necessary
+if needed
+I
+it
+impartially
+infrequently
+insignificant
+intermediate
+interactive
+in terms of
+little
+large
+long
+longer
+loud
+loudly
+light
+loose
+loosely
+low
+less
+like
+light weight
+lightweight
+logical
+low-level
+may
+might
+maximum
+more
+most
+mostly
+minimal
+middle
+moderate
+moderately
+much
+many
+meanwhile
+multiple
+man
+minimum
+maximize
+minimize
+meantime
+minimum
+mutually-agreed
+mutually-exclusive
+mutually-inclusive
+near
+nearly
+negative
+nowhere
+normal
+narrow
+narrowly
+neither
+nor
+numerous
+neat
+neatly
+noise
+noisy
+not limited to
+necessary
+no more than
+not limited to
+nobody
+nowhere
+none
+not limited to
+neutral
+not only
+on the one hand
+on the other hand
+one
+occasional
+occasionally
+other
+ordinary
+ordinaryly
+or
+often
+ok
+o.k.
+O.K.
+old
+once
+only
+optional
+optionally
+otherwise
+only
+on the fly
+ought
+possibly
+possible
+preferable
+preferably
+positive
+positively
+perhaps
+presumably
+presume
+previous
+previously
+provisional
+provisionally
+probably
+probable
+prompt
+promptly
+pretty
+partly
+perfect
+powerful
+perfect
+portable
+particular
+probably
+physical
+powerful
+practical
+prompt
+preferred
+quiet
+quietly
+quite
+quick
+quickly
+respective
+respectively
+rather
+relative
+relatively
+rare
+rarely
+remaining
+reliable
+reliably
+roomy
+round
+reasonably
+reasonable
+recent
+real
+rapid
+realistic
+robust
+random
+recent
+regardless of
+relevant
+respective
+routine
+similar
+similarly
+soon
+significant
+significantly
+special
+specially
+should
+some
+simple
+simply
+she
+something
+same
+small
+serious
+seriously
+somehow
+someone
+small
+scarce
+scarcely
+short
+shortly
+slow
+slowly
+sometimes
+somewhere
+several
+sure
+significant
+significantly
+should
+strong
+strongly
+strength
+strengthen
+soft
+softly
+swift
+swiftly
+smooth
+smoothly
+several
+seem
+seemingly
+silent
+silently
+spacious
+sufficient
+soon
+slow
+someplace
+such
+sufficient
+sufficiently
+safe
+safely
+support
+seem
+safe
+someone
+somebody
+somewhere
+something
+she
+some
+sequential
+specific
+then
+these
+those
+tiny
+thorough
+that
+they
+though
+thin
+too
+terribly
+terrible
+total
+this
+tight
+tbd
+to be discussed
+thus
+too
+tbd
+to be defined
+tba
+to be announced
+tbe
+to be expected
+tbs
+to be seen
+to be completed
+to be determined
+to be resolved
+to be specified
+there
+transient
+transparent
+timely
+user friendly
+user-friendly
+usual
+usually
+unusual
+ugly
+uncommon
+uncounted
+useable when required
+ultra
+useable
+undefinable
+understandable
+unless
+unnecessary
+useful
+very
+valuable
+various
+varying
+would
+well
+weak
+well
+want
+wish
+whole
+was
+whereas
+whether
+whatever
+whichever
+whoever
+whose
+whom
+You
+yourself
+yourselves
