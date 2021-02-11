@@ -507,7 +507,6 @@ class Scorer:
 
 
 def main():
-    tagger = pickle.load(open('data/nltk_german_tagger.pickle', 'rb'))
 
     nlp_c = NLPComparator()
     nlp_c.language = 'DE'
